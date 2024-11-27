@@ -1,0 +1,10 @@
+:root{
+    --bg-color:#F1F0E8;
+    --primary-color:#B3C8CF;
+    --secondary-color:#E5E1DA;
+    --hg-color:#89A8B2;
+    background-color: var(--bg-color);
+    color: var(--hg-color);
+    width: 100vw; /*view width es el tamaño de la patalla */
+    height: 500vw; /*view height es el tamaño de la patalla */
+    margin: 0;
